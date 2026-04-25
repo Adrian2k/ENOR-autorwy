@@ -1,3 +1,5 @@
+Project discontinued, use the new version by meltinglava: https://github.com/meltinglava/ENOR_Vatsim_Runway_Selector
+
 # ENOR Runway Selector
 
 Automatic runway selector for Norwegian airports based on METAR data from VATSIM. 
